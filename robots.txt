@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iltspe.github.io/grammatika-online/sitemap.xml
